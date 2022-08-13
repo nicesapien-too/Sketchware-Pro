@@ -36,7 +36,7 @@
     {
       "modder_username": "Jbk0",
       "modder_description": "Main modder",
-      "modder_img": "https://i.imgur.com/aGMz8Iz.jpg",
+      "modder_img": "https://avatars.githubusercontent.com/u/40118124",
       "isTitled": false,
       "isMainModder": true,
       "title": null
@@ -90,14 +90,6 @@
       "title": null
     },
     {
-      "modder_username": "Hosni Fraj",
-      "modder_description": "Advanced project version control dialog",
-      "modder_img": "https://i.imgur.com/Q2Qxsjl.jpg",
-      "isTitled": false,
-      "isMainModder": false,
-      "title": null
-    },
-    {
       "modder_username": "Iyxan23",
       "modder_description": "btw i use arch",
       "modder_img": "https://i.imgur.com/gOopPZT.png",
@@ -130,8 +122,8 @@
       "title": null
     },
     {
-      "modder_username": "Pranav",
-      "modder_description": "MainActivity design improvement",
+      "modder_username": "Pranavigation bar",
+      "modder_description": "Java 9 - Java 11 support and design improvements",
       "modder_img": "https://avatars.githubusercontent.com/u/75154889",
       "isTitled": false,
       "isMainModder": false,
